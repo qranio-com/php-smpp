@@ -1,8 +1,8 @@
 {
-    "name": "its/php-smpp",
+    "name": "qranio-com/php-smpp",
     "description": "PHP SMPP client library",
     "keywords": ["smpp", "php", "lib"],
-    "homepage": "http://github.com/agladkov/php-smpp",
+    "homepage": "http://github.com/qranio-com/php-smpp",
     "type": "library",
     "license": "MIT",
     "authors": [
